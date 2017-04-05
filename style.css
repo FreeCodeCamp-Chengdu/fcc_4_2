@@ -1,0 +1,22 @@
+.todolist {
+  display: flexbox;
+  padding: 10px;
+}
+
+.todo {
+  display: flex;
+  justify-content: center;
+}
+
+.todos {
+  padding: 10px;
+  margin-top: 5px;
+}
+
+.active {
+  text-decoration: none;
+}
+
+.completed {
+  text-decoration: line-through;
+}
